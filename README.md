@@ -1,12 +1,12 @@
-# Hi there 👋 I'm StarfallSeas
+**Hi there 👋 I'm StarfallSeas**
 
-🇨🇳 China
+**I'm from China 🇨🇳**
 
-Interested in kernel.
+**My Interest: Linunx Kernel.**
 
-Languages: `C` `C++` `Rust` `Go`
+**Languages: `C` `C++` `Rust` `Go`**
 
-📱
+**📱 My Device**
 <br/>
 <img src="https://img.shields.io/badge/XIAOMI%2013-FD4900?style=for-the-badge&logo=xiaomi&logoColor=white" />
 <br/>
@@ -30,4 +30,4 @@ Languages: `C` `C++` `Rust` `Go`
 
 ---
 
-📫 [Telegram](https://t.me/HyperFusionProject) · [GitHub](https://github.com/StarfallSeas)
+📫 How To Find Me:[Telegram](https://t.me/HyperFusionProject) · [GitHub](https://github.com/StarfallSeas)
