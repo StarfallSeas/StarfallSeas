@@ -1,38 +1,25 @@
 # Hi there 👋 I'm StarfallSeas
 
-**Android Kernel Developer | Xiaomi Device Maintainer | HyperFusion Project**
+🇨🇳 China
+
+🧑‍💻 Interested in kernel.
+
+Languages: `C` `C++` `Rust` `Go`
+
+📱
+<img src="https://img.shields.io/badge/HUAWEI%20Mate%2080%20Pro-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
+<img src="https://img.shields.io/badge/XIAOMI%2013-FD4900?style=for-the-badge&logo=xiaomi&logoColor=white" />
+<img src="https://img.shields.io/badge/XIAOMI%2014-FD4900?style=for-the-badge&logo=xiaomi&logoColor=white" />
 
 ---
 
-### 👨‍💻 What I'm Working On
-
-I develop and maintain custom Android kernels optimized for flagship Xiaomi devices. My focus areas are:
-
-* 🔋 **Performance & Power**: Tuning EAS, CPU governors, and thermal management for Snapdragon SoCs.
-* 🔓 **Kernel-Level Enhancements**: Integrating KernelSU, KProbes, and exploring Rust-for-Linux.
-* 🛠️ **Toolchain & Build**: Maintaining reproducible build environments with GCC/LLVM, Make, and Docker.
-
-### 📱 Maintained Devices
-
 <p align="center">
-  <img src="https://github.com/StarfallSeas/StarfallSeas/blob/main/image/file_000000009cd8720bb94330da43ad9072.png" alt="Maintained Xiaomi Devices" width="100%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StarfallSeas&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarfallSeas&layout=compact&theme=radical&hide_border=true&langs_count=4&hide=html,css,javascript" />
 </p>
 
 ---
 
-### 📊 Recent GitHub Activity
+📫 [Telegram](https://t.me/HyperFusionProject) · [GitHub](https://github.com/StarfallSeas)
 
-<!--START_SECTION:activity-->
-*This section updates automatically to show my latest kernel commits and activity.*
-<!--END_SECTION:activity-->
-
----
-
-### 📫 Connect & Stay Updated
-
-* **Telegram Channel**: [HyperFusionProject](https://t.me/HyperFusionProject)
-* **GitHub**: [@StarfallSeas](https://github.com/StarfallSeas)
-
----
-
-> "In a world without walls and fences, who needs gates and windows?" — Adapted for kernel hackers.
+都加上emoji会更美观？
